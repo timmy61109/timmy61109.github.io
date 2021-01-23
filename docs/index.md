@@ -1,5 +1,5 @@
 # timmy61109工作室
-目前就讀金門大學電子工程系，專精Python，在IC設計的Verilog硬體描述語言、Flask、Django、網頁設計、Docker、K8s等皆有涉略，了解MVT模型、DevOps、CI/CD、Test Function、自動化流程等概念與達成方式，曾因應需求以Python開發與製作套件。
+目前就讀金門大學電子工程系，專精Python，在IC設計的Verilog硬體描述語言、Flask、Django、網頁設計、Docker、K8s等皆有涉略，了解容器技術、MVT模型、DevOps、CI/CD、Test Function、自動化流程等概念與達成方式，曾因應需求以Python開發與製作套件。
 
 # 提供服務
 提供以下服務：
