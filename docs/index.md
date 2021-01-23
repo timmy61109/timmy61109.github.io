@@ -1,38 +1,16 @@
 # 吳晨知
-## Welcome to GitHub Pages
+目前就讀金門大學電子工程系，專精Python，在IC設計的Verilog硬體描述語言、Flask、Django、網頁設計、Docker、K8s等皆有涉略，了解MVT模型、DevOps、CI/CD、Test Function、自動化流程等概念與達成方式，曾因應需求以Python開發與製作套件。
 
-You can use the [editor on GitHub](https://github.com/timmy61109/timmy61109.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# 提供服務
+提供以下服務：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Python程式設計：依照需求設計函式、模組、套件、安裝套件等，讓其他使用者可以直接從PyPI上提供第三方軟體包下載安裝。
+- 全端網站架設：使用Django、Flask等開放原始碼軟體與套件作為網頁伺服器，在MVT模型下透過Python靈活設計網站。
+- 虛擬主機：協助架設網站與服務在GCP、Azmor、Azure等各大平台。
+- 容器技術：提供Docker、K8s等新虛擬化技術運作與製作套件。
+- DevOps：提供在GitHub、GitLab、Azure DevOps等程式碼代管平台建置「持續整合」(CI)與「持續佈署」(CD)，達到DevOps設計目標與理念。
 
-### Markdown
+# 特色
+在不斷變化的時代，小弟我當然不是
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/timmy61109/timmy61109.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+聯絡方式:0917---271
